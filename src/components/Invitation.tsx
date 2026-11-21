@@ -113,6 +113,9 @@ export const Invitation: React.FC<InvitationProps> = ({ onViewDetails }) => {
             <p className="inv-reveal font-calligraphy text-[19px] sm:text-[21px] leading-[2.05] text-[#40362D] max-w-[300px] mt-1">
               {EVENT_CONFIG.copy.closingLine}
             </p>
+            <p className="inv-reveal font-calligraphy text-[20px] sm:text-[22px] leading-[1.95] text-[#40362D]/90 mt-1">
+              {EVENT_CONFIG.copy.familyNames}
+            </p>
 
             <div className="inv-reveal w-full mt-3.5">
               <HeartDivider />
