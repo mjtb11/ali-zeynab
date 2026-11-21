@@ -27,7 +27,7 @@ export const EVENT_CONFIG = {
     openingLine: 'در سایه‌سار عشق و مهر',
     occasionLine: 'در شب عقدکنان',
     coupleNames: 'علی و زینب',
-        closingLine: 'چشم‌انتظار حضور گرم و صمیمانه شما هستیم.',
+            closingLine: 'چشم‌انتظار حضور گرم و صمیمانه شما هستیم.',
         familyNames: 'شفیعی - تیموری',
     openEnvelopeCta: 'برای دیدن دعوتنامه کلیک کنید',
     viewDetailsCta: 'مشاهده جزئیات مراسم',
